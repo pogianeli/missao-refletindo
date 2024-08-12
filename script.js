@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saio da escola me depara com uma nova jornada, um futuro aonde coisas melhores virão, mas para isso terei que estudar muito e trabalhar duro. Qual é o meu primeiro pensamento?",
+        enunciado: "Assim que saio da escola me depara com uma nova jornada, um futuro aonde coisas melhores estãopor vir, mas para isso terei que estudar muito e trabalhar duro. Qual é o meu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é demais, mas eu devo mesmo entrar nessa?",
@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta deste futuro,s",
+        enunciado: "Com a descoberta deste futuro,busco apreender mais, qual é minha primeira ação?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
